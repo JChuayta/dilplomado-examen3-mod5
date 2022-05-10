@@ -1,0 +1,2 @@
+[bionic]
+192.168.122.85 ansible_user=juanhuayta ansible_ssh_private_key_file=./bionic.key
